@@ -1,6 +1,8 @@
-![Uploading earbuds.jpg…]()
 # wireless-earbuds-review
 Detailed review of Bluetooth V5.3 wireless earbuds
+
+![earbuds](https://github.com/user-attachments/assets/2508043d-f66d-4968-ad2a-79c0a225b8a6)
+
 Tired of tangled wires and low-quality sound? Meet your next favorite gadget — the Wireless Earbuds Bluetooth V5.3 — a sleek, affordable, and high-tech solution to your everyday audio needs.
 
 🔥 Why These Earbuds Stand Out
